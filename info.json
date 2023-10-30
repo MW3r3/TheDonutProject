@@ -117,5 +117,11 @@
         "name": "Drake Fletcher",
         "github": "drakeerv",
         "run": "dart donut.dart"
+    },
+    "R": {
+        "name": "Melih Bulut",
+        "github": "MW3r3",
+        "run": "Rscript donut.R",
+        "description": "This is a donut graph in R. It is not animated, but it is a donut graph. and it is also interactive. for macos download XQuartz."
     }
 }
